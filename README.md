@@ -2,7 +2,6 @@
 
 ## Demo
 [View demo]([https://hugo-ink.netlify.com](https://ceritapanji.netlify.app/))
-![Screenshot]([https://user-images.githubusercontent.com/547147/69119000-3ace9280-0abb-11ea-81bc-5af68433e845.png](https://i.imgur.com/ohWjpth.png) "light theme")
 
 ## Features
 * Google Analytics integration
