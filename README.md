@@ -1,9 +1,8 @@
-# Ink
-Crisp, minimal personal website and blog theme Hugo. Forked from [Ezhil](https://github.com/vividvilla/ezhil).
+# Static Website
 
 ## Demo
-[View demo](https://hugo-ink.netlify.com)
-![Screenshot](https://user-images.githubusercontent.com/547147/69119000-3ace9280-0abb-11ea-81bc-5af68433e845.png "Ink light theme")
+[View demo]([https://hugo-ink.netlify.com](https://ceritapanji.netlify.app/))
+![Screenshot]([https://user-images.githubusercontent.com/547147/69119000-3ace9280-0abb-11ea-81bc-5af68433e845.png](https://i.imgur.com/ohWjpth.png) "light theme")
 
 ## Features
 * Google Analytics integration
@@ -13,33 +12,7 @@ Crisp, minimal personal website and blog theme Hugo. Forked from [Ezhil](https:/
 * RSS feeds
 * Custom CSS/JS
 * Multilingual months support
-
-## Installation
-
-cd into your hugo site's root directory and:
-
-```sh
-cd themes
-git clone https://github.com/knadh/hugo-ink.git
-```
-
-For more information read the [official setup guide](https://gohugo.io/overview/installing/) of Hugo.
-
-
-## Content type
-
-You can specify content type with field `type` in your content. For example static pages can be set as type `page` which are excluded from recent posts and all posts page. You can use site params `mainSections` and `disableDisqusTypes` to control which page types are excluded from recent posts and Disqus comments respectively.
-
-```md
----
-title: "About"
-date: 2019-04-19T21:37:58+05:30
-type: "page"
----
-
-This is some static page where you can write about yourself.
-```
-
+* 
 ## Language Settings for the month
 
 Due to the currently unavailable feature for multilingual dates in ``.Date`` from
