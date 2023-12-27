@@ -1,8 +1,5 @@
 # Static Website
 
-## Demo
-[View demo]([https://hugo-ink.netlify.com](https://ceritapanji.netlify.app/))
-
 ## Features
 * Google Analytics integration
 * Syntax highlighting
