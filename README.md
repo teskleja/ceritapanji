@@ -32,9 +32,3 @@ cat > month.yaml << EOF
 12: "Dec"
 EOF
 ```
-
-## Credits
-
-* [Ezhil theme](https://github.com/vividvilla/ezhil) 
-
-Licensed under the MIT license.
