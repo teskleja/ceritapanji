@@ -35,6 +35,6 @@ EOF
 
 ## Credits
 
-* [Ezhil theme](https://github.com/vividvilla/ezhil) from which Ink was forked
+* [Ezhil theme](https://github.com/vividvilla/ezhil) 
 
 Licensed under the MIT license.
